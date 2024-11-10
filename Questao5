@@ -1,0 +1,12 @@
+Sinceramente, por meio de código, não cheguei a pensar em uma conclusão para essa questão.
+Por meio da prática e lógica, eu pensei na conclusão que podemos usar a temperatura das lâmpadas.
+Pois uma lâmpada, ao ficar acesa por alguns minutos, ela aquece.
+
+Levando isso em consideração:
+    Podemos ligar o primeiro interruptor e deixa-lo ligado por um tempo e depois desliga-lo;
+    Ligar o segundo interruptor e deixa-lo ligado;
+
+Com essa sequência de ação, ao ir na sala pela primeira vez, você conseguirá chegar ao resultado com as seguintes ações:
+    A lâmpada acesa, é a do segundo interruptor;
+    A lâmpada apagada porém quente, é a do primeiro interruptor;
+    A lâmpada apagada e fria, é a do terceiro interruptor;
